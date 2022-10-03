@@ -6,6 +6,7 @@
 
 <a href="https://app.daily.dev/Calvinpark"><img src="https://api.daily.dev/devcards/d1f8444ec90c4896b5683a4853fdcd52.png?r=suc" width="400" alt="Won Kyun Park (Calvin Park)'s Dev Card"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinParkNov)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CalvinParkNov/CalvinParkNov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
