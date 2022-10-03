@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 
 <a href="https://app.daily.dev/Calvinpark"><img src="https://api.daily.dev/devcards/d1f8444ec90c4896b5683a4853fdcd52.png?r=suc" width="400" alt="Won Kyun Park (Calvin Park)'s Dev Card"/></a>
 
